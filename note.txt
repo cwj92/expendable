@@ -1,0 +1,3 @@
+platform-browser vs platform-browser-dynamic
+=====
+platform browser is kind of like a base implementation.... and different platform implementation like platform-browser-dynamic or platform-server can import it and run on different platform.
